@@ -34,3 +34,4 @@ Thumbs.db
 # ignore pickle and docs #
 *.pkl
 *.docx
+*.csv
