@@ -29,6 +29,7 @@ Thumbs.db
 #####################
 # python  #
 .idea
+.ipynb_checkpoints
 
 ######################
 # ignore pickle and docs #
